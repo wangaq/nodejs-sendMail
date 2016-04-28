@@ -3,4 +3,4 @@
  */
 var main = require('./main');
 
-main.sendMail('wangaq@ejiaofei.com','测试邮件', 'Hi waq,这是一封测试邮件');
+main.sendMail('**************','测试邮件', 'Hi waq,这是一封测试邮件');
